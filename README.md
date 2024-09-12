@@ -6,9 +6,19 @@
 
 - ⚡ Fun fact: This is how we do action in uganda: https://youtu.be/rQuD8K7x0qg?si=XWEsGqYdhKuM-Q2w
 
->[!NOTE]
+> [!IMPORTANT]
 >[Linkedin](https://www.linkedin.com/in/ericsalvi67/)
+>
 >[Instagram](https://www.instagram.com/ericsalvi_/)
+
+<div align="center">
+  
+_Visitor's count_
+
+![Visitor Count](https://profile-counter.glitch.me/{ericsalvi67}/count.svg)
+
+</div>
+
 
 
 <!--
