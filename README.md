@@ -19,6 +19,10 @@ Curently on italian citizenship process.
 >
 >[![Instagram](https://img.icons8.com/?size=20&id=Xy10Jcu1L2Su&format=png&color=000000)Instagram](https://www.instagram.com/ericsalvi_/)
 
+
+![ericsalvi67's Stats](https://github-readme-stats.vercel.app/api?username=ericsalvi67&theme=darcula&show_icons=true&hide_border=true&count_private=false&layout=compact)
+![ericsalvi67's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsalvi67&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
  <div align="center">
   
 _Visitor's count_
@@ -26,6 +30,10 @@ _Visitor's count_
 ![Visitor Count](https://profile-counter.glitch.me/{ericsalvi67}/count.svg)
 
 </div>
+
+
+
+
 
 <!--
 **ericsalvi67/ericsalvi67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
