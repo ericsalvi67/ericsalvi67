@@ -4,7 +4,7 @@
 
 - 🌱 I'm Currently studing Bachelor of Computer Science at UCS
 - 📫 How to reach me: https://www.linkedin.com/in/ericsalvi67/
-- ⚡ Fun fact: This is how we do action in uganda 🇺🇬
+- ⚡ Fun fact: This is how we do action in uganda: https://youtu.be/rQuD8K7x0qg?si=XWEsGqYdhKuM-Q2w
 
 <!--
 **ericsalvi67/ericsalvi67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
