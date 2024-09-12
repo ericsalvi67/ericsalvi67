@@ -13,6 +13,8 @@ Curently on italian citizenship process.
 
 ##
 > [!IMPORTANT]
+> <sup>_You can find me here!_</sup>
+> 
 >[![Linkedin](https://img.icons8.com/?size=20&id=13930&format=png&color=000000)Linkedin](https://www.linkedin.com/in/ericsalvi67/)
 >
 >[![Instagram](https://img.icons8.com/?size=20&id=Xy10Jcu1L2Su&format=png&color=000000)Instagram](https://www.instagram.com/ericsalvi_/)
