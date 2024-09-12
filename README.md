@@ -6,8 +6,9 @@
 
 - ⚡ Fun fact: This is how we do action in uganda: https://youtu.be/rQuD8K7x0qg?si=XWEsGqYdhKuM-Q2w
 
-[!NOTE][Linkedin](https://www.linkedin.com/in/ericsalvi67/)
-[Instagram](https://www.instagram.com/ericsalvi_/)
+>[!NOTE]
+>[Linkedin](https://www.linkedin.com/in/ericsalvi67/)
+>[Instagram](https://www.instagram.com/ericsalvi_/)
 
 
 <!--
