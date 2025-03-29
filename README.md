@@ -17,7 +17,7 @@ Curently on italian citizenship process.
 ***Tech Stack***
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C#-5C2D90?style=for-the-badge&logo=c&logoColor=white)
+![CSharp](https://img.shields.io/badge/C#-5C2D90?style=for-the-badge&logo=c&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=git&logoColor=white)
 
