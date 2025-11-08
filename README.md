@@ -5,9 +5,9 @@
 Brazilian guy who is still in process to learn new methods for developing and expand new horizons as times fly by. Always searching for new developments in the hardware industry.
 Curently on italian citizenship process.
 
-🎧Hardware, audiphile and eletronic devices enthusiast. >~~lost count of how many eletronic itens I collected over the years 🤡~~
+🎧Hardware, audiphile and eletronic devices enthusiast.
 
-- 🌱 I'm Currently studing Bachelor of Computer Science at UCS and learning C language as I go.
+- 🌱 I'm Currently studing System Development Technology degree.
 
 - ⚡ Fun fact: [This is how we do action in Uganda](https://youtu.be/rQuD8K7x0qg?si=XWEsGqYdhKuM-Q2w)
 
