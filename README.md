@@ -7,7 +7,7 @@ Curently on italian citizenship process.
 
 🎧Hardware, audiphile and eletronic devices enthusiast.
 
-- 🌱 I'm Currently studing System Development Technology degree.
+- 🌱 I'm Currently studing System Analysis and Development .
 
 - ⚡ Fun fact: [This is how we do action in Uganda](https://youtu.be/rQuD8K7x0qg?si=XWEsGqYdhKuM-Q2w)
 
